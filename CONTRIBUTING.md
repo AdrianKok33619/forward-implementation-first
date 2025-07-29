@@ -7,3 +7,4 @@ Notes and usage details for forward-implementation-first.
 - link the usage section
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
