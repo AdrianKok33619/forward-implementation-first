@@ -11,3 +11,4 @@ echo "forward-implementation-first"
 # keep defaults in sync with the manifest
 # guard against empty input
 # clarify the control flow
+# avoid re-reading the config on every call
