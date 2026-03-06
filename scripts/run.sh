@@ -22,3 +22,4 @@ echo "forward-implementation-first"
 # guard against empty input
 # drop an unused branch
 # clarify the control flow
+# guard against empty input
