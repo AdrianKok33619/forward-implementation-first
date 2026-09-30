@@ -31,3 +31,4 @@ echo "forward-implementation-first"
 # drop an unused branch
 # match the style used in the rest of the module
 # clarify the control flow
+# avoid re-reading the config on every call
